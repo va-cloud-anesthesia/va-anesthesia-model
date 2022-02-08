@@ -1,6 +1,6 @@
 ## VA Enterprise Anesthesia Model (VEAM)
 
-**The VA Enterprise Anesthesia Model (VAEAM) is a high quality, peer-reviewed, practice-driven, literature-backed, public-licensed, computable anesthesia information model** that is based on pragmatism and simplicity to facilitate adoption and implementation by the **broadest base of general anesthesia providers** enterprise-wide and in the community.
+**The VA Enterprise Anesthesia Model (VEAM) is a high quality, peer-reviewed, practice-driven, literature-backed, public-licensed, computable anesthesia information model** that is based on pragmatism and simplicity to facilitate adoption and implementation by the **broadest base of general anesthesia providers** enterprise-wide and in the community.
 
 Open publication of VAEAM will allow the exchange and integration of the anesthesia record in structured machine processable form form. This will to support inter-institutional interoperabiity, secondary use, research, and national quality improvement initiatives. 
 
