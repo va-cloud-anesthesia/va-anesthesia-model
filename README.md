@@ -1,17 +1,15 @@
-## VA Enterprise Anesthesia Model
+## VA Enterprise Anesthesia Model (VEAM)
 
-**OBJECTIVE**
+**The VA Enterprise Anesthesia Model (VAEAM) is a high quality, peer-reviewed, practice-driven, literature-backed, public-licensed, computable anesthesia information model** that is based on pragmatism and simplicity to facilitate adoption and implementation by the **broadest base of general anesthesia providers** enterprise-wide and in the community.
 
-**A high quality, peer-reviewed, practice-driven, literature-backed, freely licensed, computable anesthesia information model** that is focused on pragmatism and simplicity to facilitate the use and adoption by the **broadest base of general anesthesia providers**. 
-
-Publication and open licensing of this will allow the exchange and integration of the anesthesia record in structured machine processable form form. This will to support inter-institutional interoperabiity, secondary use, research, and national quality improvement initiatives. 
+Open publication of VAEAM will allow the exchange and integration of the anesthesia record in structured machine processable form form. This will to support inter-institutional interoperabiity, secondary use, research, and national quality improvement initiatives. 
 
 
  **USE CASES**
  
-**1. Semantic Interoperability of all structured data comprising a standard anesthesia record**.  This will allow exchange of the anesthesia record **directly from system-to-system** (such as AIMS--EHR or AIMS--Analytics platform) in machine processable form with without any cost, middleware, or middleman. This will support efficient, free, unlimited, and fully automated exchange of structured anesthesia information between all stakeholders to support aggregation, analytics, clinical research, compliance, and national quality initiatives.
+**1. Computable Interoperability of all structured data comprising a standard anesthesia record**.  This will allow exchange of the anesthesia record **directly from system-to-system** (such as AIMS--EHR or AIMS--Analytics platform) in machine processable form with without any cost, middleware, or middleman. This will support efficient, free, unlimited, and fully automated exchange of structured anesthesia information between all stakeholders to support aggregation, analytics, clinical research, compliance, and national quality initiatives.
 
-**2. Review the entire digital anesthesia record on a single page view on any mobile or desktop web device.** This will provide anesthesiologists the most convenient, accessible, and rapid review of the digital anesthesia record - or a digitally exchanged one - from any device with a modern web browser at the bedside.  To accomodate viewing all data efficiently in smaller web browsers, the best practices in high density information display will be used, incorporating [sparklines](https://en.wikipedia.org/wiki/Sparkline) and motifs from [trading platforms](https://www.tdameritrade.com/tools-and-platforms/mobile-trading/td-ameritrade-mobile.page). This will allow anesthesiologists to review all past, present, or exchanged records rapidly and easily with a single ubiquitous viewer (including the one in their pocket) supporting  clinical decision support at the bedside,  enhancing patient safety and care. 
+**2. Automated summarization the digital anesthesia record on a single page view on any mobile or desktop web device.** This will provide anesthesiologists the most convenient, accessible, and rapid review of the digital anesthesia record - or a digitally exchanged one - from any device with a modern web browser at the bedside.  To accomodate viewing all data efficiently in smaller web browsers, the best practices in high density information display will be used, incorporating [sparklines](https://en.wikipedia.org/wiki/Sparkline) and motifs from [trading platforms](https://www.tdameritrade.com/tools-and-platforms/mobile-trading/td-ameritrade-mobile.page). This will allow anesthesiologists to review all past, present, or exchanged records rapidly and easily with a single ubiquitous viewer (including the one in their pocket) supporting  clinical decision support at the bedside,  enhancing patient safety and care. 
 
 
 
